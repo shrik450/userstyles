@@ -1,0 +1,25 @@
+@-moz-document url-prefix("https://the-ken.com/story/")
+{
+  body {
+    background-color: #fdf6e3;
+    text-align: justify;
+  }
+
+  .story-page .article-content p {
+    color: #073642;
+  }
+
+  .story-page .main-content {
+    font-family: "iA Writer Duo S", "JetBrains Mono", mono;
+  }
+
+  .col-md-8 {
+    flex: none;
+    max-width: 940px;
+  }
+
+  .offset-md-2 {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}

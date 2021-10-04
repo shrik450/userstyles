@@ -1,0 +1,28 @@
+@-moz-document url-prefix("https://the-ken.com/bfo/")
+{
+  body {
+    background-color: #fdf6e3;
+    text-align: justify;
+    font-family: "iA Writer Duo S", "JetBrains Mono", mono !important;
+  }
+
+  div[style] {
+    font-family: "iA Writer Duo S", "JetBrains Mono", mono !important;
+  }
+
+  .single-bfo-container[style] {
+    max-width: 940px !important;
+  }
+
+  .single-bfo-wrapper[style] {
+    background-color: #fdf6e3 !important;
+  }
+
+  .content[style] {
+    max-width: 940px !important;
+    background-color: #fdf6e3;
+    text-align: justify;
+    color: #073642;
+    padding: 2px;
+  }
+}
