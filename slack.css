@@ -1,0 +1,9 @@
+@-moz-document domain("app.slack.com") {
+  body {
+    font-family: "iA Writer Duo S", "JetBrains Mono", mono !important;
+  }
+
+  .c-texty_input_unstyled {
+    font-family: "iA Writer Duo S", "JetBrains Mono", mono !important;
+  }
+}

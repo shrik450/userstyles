@@ -1,0 +1,24 @@
+@-moz-document url-prefix("https://the-ken.com/kaching/")
+{
+  body {
+    background-color: #fdf6e3 !important;
+  }
+
+  td {
+    background-color: #fdf6e3 !important;
+  }
+
+  table[style] {
+    max-width: 940px !important;
+  }
+
+  span[style] {
+    font-family: "iA Writer Duo S", "JetBrains Mono", monospace !important;
+    color: #073642 !important;
+  }
+
+  div {
+    font-family: "iA Writer Duo S", "JetBrains Mono", monospace !important;
+    color: #073642 !important;
+  }
+}

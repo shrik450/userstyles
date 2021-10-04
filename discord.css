@@ -1,0 +1,5 @@
+@-moz-document domain("discord.com") {
+  body {
+    font-family: "iA Writer Duo S", "JetBrains Mono", mono !important;
+  }
+}
